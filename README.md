@@ -9,7 +9,7 @@ This course provides a complete Python learning path with detailed explanations,
 ## Course Modules
 
 ### Module 1: Python Basics
-📄 [Open Module](Module/1. Python_Basics_Module1.md)
+📄 [Open Module](Module/1.%20Python_Basics_Module1.md)
 
 - Introduction to Python and its applications
 - Installing Python and setting up the development environment
@@ -21,7 +21,7 @@ This course provides a complete Python learning path with detailed explanations,
 - Simple exercises for practice
 
 ### Module 2: Control Flow
-📄 [Open Module](Module/2. Python_ControlFlow_Module2.md)
+📄 [Open Module](Module/2.%20Python_ControlFlow_Module2.md)
 
 - Introduction to control flow concepts
 - Conditional statements (if, else, elif, nested)
@@ -32,7 +32,7 @@ This course provides a complete Python learning path with detailed explanations,
 - Hands-on exercises
 
 ### Module 3: Data Structures
-📄 [Open Module](Module/3. Python_DataStructures_Module3.md)
+📄 [Open Module](Module/3.%20Python_DataStructures_Module3.md)
 
 - Introduction to data structures
 - Lists (creation, methods, slicing, iteration)
@@ -43,7 +43,7 @@ This course provides a complete Python learning path with detailed explanations,
 - Practical examples and exercises
 
 ### Module 4: Functions and Modules
-📄 [Open Module](Module/4. Python_Functions_Modules_Module4.md)
+📄 [Open Module](Module/4.%20Python_Functions_Modules_Module4.md)
 
 - Introduction to functions and their importance
 - Defining functions with parameters
@@ -54,7 +54,7 @@ This course provides a complete Python learning path with detailed explanations,
 - Practical examples and exercises
 
 ### Module 5: File Handling
-📄 [Open Module](Module/5. Python_FileHandling_Module5.md)
+📄 [Open Module](Module/5.%20Python_FileHandling_Module5.md)
 
 - Introduction to file handling
 - Opening and closing files (with statement)
@@ -66,7 +66,7 @@ This course provides a complete Python learning path with detailed explanations,
 - Practical examples and exercises
 
 ### Module 6: Object-Oriented Programming (OOP)
-📄 [Open Module](Module/6. Python_OOP_Module6.md)
+📄 [Open Module](Module/6.%20Python_OOP_Module6.md)
 
 - Introduction to OOP concepts
 - Classes and objects
@@ -79,7 +79,7 @@ This course provides a complete Python learning path with detailed explanations,
 - Practical examples and exercises
 
 ### Module 7: Advanced Python Topics
-📄 [Open Module](Module/7. Python_AdvancedTopics_Module7.md)
+📄 [Open Module](Module/7.%20Python_AdvancedTopics_Module7.md)
 
 - Introduction to advanced Python concepts
 - Decorators (function decorators with @ syntax)
@@ -91,7 +91,7 @@ This course provides a complete Python learning path with detailed explanations,
 - Practical examples and exercises
 
 ### Module 8: Python Libraries and Frameworks
-📄 [Open Module](Module/8. Python_Libraries_Frameworks_Module8.md)
+📄 [Open Module](Module/8.%20Python_Libraries_Frameworks_Module8.md)
 
 - Introduction to Python libraries and frameworks
 - Data Analysis (NumPy, Pandas)
